@@ -4,16 +4,16 @@ export default function NavigationBar() {
     return (
         <ul >
             <li>
-			    <Link to={'/home'}>Home</Link>
+			    <Link to={'/Bartendthere/home'}>Home</Link>
             </li>
             <li>
-                <Link to={'/about'}>About</Link>
+                <Link to={'/Bartendthere/about'}>About</Link>
             </li>
             <li>
-                <Link to={'/gallery'}>Gallery</Link>
+                <Link to={'/Bartendthere/gallery'}>Gallery</Link>
             </li>
             <li>
-                <Link to={'/contact'}>Contact</Link>
+                <Link to={'/Bartendthere/contact'}>Contact</Link>
             </li>
         </ul>
     )
