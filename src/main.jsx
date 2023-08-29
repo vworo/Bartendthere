@@ -10,7 +10,7 @@ import Contact from './pages/Contact.jsx'
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "Bartendthere",
     element: <App />,
     children: [
       {
