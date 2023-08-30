@@ -13,6 +13,9 @@ export default function NavigationBar() {
                 <Link to={'/Bartendthere/gallery'}>Gallery</Link>
             </li>
             <li>
+                <Link to={'/Bartendthere/faqs'}>FAQs</Link>
+            </li>
+            <li>
                 <Link to={'/Bartendthere/contact'}>Contact</Link>
             </li>
         </ul>
