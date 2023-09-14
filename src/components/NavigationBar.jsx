@@ -4,19 +4,19 @@ export default function NavigationBar() {
     return (
         <ul >
             <li>
-			    <Link to={'/Bartendthere/home'}>Home</Link>
+			    <Link to={'/home'}>Home</Link>
             </li>
             <li>
-                <Link to={'/Bartendthere/about'}>About</Link>
+                <Link to={'/about'}>About</Link>
             </li>
             <li>
-                <Link to={'/Bartendthere/gallery'}>Gallery</Link>
+                <Link to={'/gallery'}>Gallery</Link>
             </li>
             <li>
-                <Link to={'/Bartendthere/faqs'}>FAQs</Link>
+                <Link to={'/faqs'}>FAQs</Link>
             </li>
             <li>
-                <Link to={'/Bartendthere/contact'}>Contact</Link>
+                <Link to={'/contact'}>Contact</Link>
             </li>
         </ul>
     )
